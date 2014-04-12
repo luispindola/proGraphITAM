@@ -5,4 +5,5 @@
 	unset($_SESSION["fecha"]);
 	session_destroy();
 	header("Location: ../index.php");
+        //dfgkj
 ?>
