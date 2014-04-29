@@ -7,6 +7,7 @@
     require ("graf.common.php");
     require_once("config/var.php"); //Variables y funciones Globales
     
+    
     //Conectar con la base de datos
     $conec = Conector();
     mysql_select_db ($config["baseDatos"],$conec);
