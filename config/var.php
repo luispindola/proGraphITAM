@@ -2,11 +2,11 @@
 $config = array (
 	"nombre_sitio" => "Sistema de Análisis de Reactivos",
 	"servidor_MySQL" => "localhost",
-	"usuario_MySQL" => "root",
-	"pssw_MySQL" => "usbw",
-	"baseDatos" => "proy1"
+	"usuario_MySQL" => "spin100_proy1",
+	"pssw_MySQL" => "Proyproy1",
+	"baseDatos" => "spin100_proy2"
 );
-
+//Datos de servidor Spin100.com
 function Conector()
 {
 	global $config;
