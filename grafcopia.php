@@ -6,7 +6,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="">
 		<title>Universidad Autónoma Metropolitana</title>
-		<!-- Bootstrap core CSS -->
+		<!-- Bootstrap core CSS  -->
 		<link href="css/bootstrap.css" rel="stylesheet">
 		<!-- Add custom CSS here -->
 		<link href="css/logo-nav.css" rel="stylesheet">
